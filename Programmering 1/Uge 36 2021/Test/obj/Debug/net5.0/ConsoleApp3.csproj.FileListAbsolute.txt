@@ -1,0 +1,16 @@
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\Rassh\OneDrive - UCL Erhvervsakademi og Professionshøjskole\1. Semester\Programmering 1 Teknik 1\Uge 36 2021\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
